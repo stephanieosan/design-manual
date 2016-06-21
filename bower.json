@@ -32,11 +32,5 @@
     "jquery.easing": {
       "js": "js/jquery.easing.js"
     }
-  },
-  "resolutions": {
-    "cf-expandables": "^1.0.0",
-    "cf-layout": "^1.0.0",
-    "cf-pagination": "^1.0.0",
-    "cf-typography": "^1.0.0"
   }
 }
