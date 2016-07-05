@@ -125,6 +125,20 @@ secondarynav:
   internal: true
   category: Brand guidelines
 
+# Content guidelines
+- text: Content guidelines overview 
+  url: content-guidelines/content-guidelines.html
+  internal: true
+  category: Content guidelines
+- text: Writing page component pages 
+  url: content-guidelines/page-components.html
+  internal: true
+  category: Content guidelines
+- text: Writing brand guideline pages
+  url: content-guidelines/brand-guidelines.html
+  internal: true
+  category: Content guidelines
+
 
 # Global elements
 - text: Grid
