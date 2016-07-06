@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Content guidelines
+title: How to write Design Manual pages
 category: Content guidelines
 ---
 

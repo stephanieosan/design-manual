@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing brand guidelines pages
+title: For brand guidelines section
 category: Content guidelines
 published: true
 ---

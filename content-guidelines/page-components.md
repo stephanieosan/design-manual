@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing page components pages
+title: For page components section
 category: Content guidelines
 published: true
 ---
