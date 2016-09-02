@@ -35,7 +35,7 @@ A brief (2-3 sentence) description of what the item is and generally what it is 
 
 #### Use case(s) (h2)
 
-An explanation of why and when that element should and should not be used.
+Explain why and when that element should and should not be used.
 
 * Include default/most common use cases
 * Include variations on use cases, if applicable 

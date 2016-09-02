@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to write Design Manual pages
+title: Design Manual structure
 category: Content guidelines
 ---
 
@@ -14,13 +14,10 @@ All topics within the Design Manual should fall under one of these categories/co
 
 * Brand guidelines
 * Global elements
-* Page components
+* [Page components]("/page-components.html")
 * Best practices
 * Data visualization
 
-##### Best practices
-
-Best practices are longer-form content pages that detail recommended practices and guiding principles around a specific topic. They focus on conveying tips, strategies, and advice for designing effective, accessible, and user-centered products. These can be broader topics for general best practices and don’t have to be specific to CFPB only.
 
 ##### Brand guidelines
 
@@ -28,9 +25,13 @@ Topics under brand guidelines touch on CFPB-specific design and branding element
 
 ##### Global elements 
 
-Topics under global elements encompass structural elements that are used to create the foundation of the webpage as well as elements that appear on every page. This includes things like rules on navigation, the grid, specific page types, or page introductions.  
+Topics under global elements encompass structural elements that are used to create the foundation of the webpage as well as elements that appear on every page. This includes things like rules on navigation, the grid, specific page types, or page introductions.   
 
 ##### Page components
 
 Page components are individual UI elements that can be “placed” on a page. These are generally aligned as “atoms” according to atomic design principles and include things like tabs, tables, buttons, and links. 
+
+##### Best practices
+
+Best practices are longer-form content pages that detail recommended practices and guiding principles around a specific topic. They focus on conveying tips, strategies, and advice for designing effective, accessible, and user-centered products. These can be broader topics for general best practices and don’t have to be specific to CFPB only.
 

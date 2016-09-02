@@ -126,15 +126,19 @@ secondarynav:
   category: Brand guidelines
 
 # Content guidelines
-- text: How to write Design Manual pages
+- text: Design Manual structure
   url: content-guidelines/content-guidelines.html
+  internal: true
+  category: Content guidelines
+- text: General content guidelines
+  url: content-guidelines/general-content-guidelines.html
   internal: true
   category: Content guidelines
 - text: For page components section
   url: content-guidelines/page-components.html
   internal: true
   category: Content guidelines
-- text: For brand guidelines section
+  - text: For brand guidelines section
   url: content-guidelines/brand-guidelines.html
   internal: true
   category: Content guidelines
