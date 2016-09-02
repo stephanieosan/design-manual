@@ -14,9 +14,8 @@ All topics within the Design Manual should fall under one of these categories/co
 
 * Brand guidelines
 * Global elements
-* [Page components]("/page-components.html")
+* [Page components](page-components.html)
 * Best practices
-* Data visualization
 
 
 ##### Brand guidelines
