@@ -74,5 +74,5 @@ The purpose of dynamic content is to make it easy to reuse content â€œsnippetsâ€
 
 Dynamic content is defined centrally within Jekyll includes or data files and can be pulled into other design manual pages. The include file or data file can be updated once, and all the places that use dynamic content will automatically update.
 
-Currently, dynamic content is used to specify color data (color name and hex #) on component pages. Detailed instructions for using the color data is located on [github wiki page link].
+Currently, dynamic content is used to specify color data (color name and hex #) on component pages. Detailed instructions for using the color data is located on [the github wiki](https://github.com/cfpb/design-manual/wiki/Using-data-files).
 </div> 
