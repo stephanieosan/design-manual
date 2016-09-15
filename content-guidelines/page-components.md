@@ -60,7 +60,7 @@ Create different sub-sections for defaults and variations on style, include diff
 
 * Small-screen style—include a sub-section (if necessary) that details any styles that are different on a smaller screen
 
-Styles should be as detailed as necessary to create the component, including things like font, color, padding, etc. Per FEWD preference, put them in alpha order.
+Styles should be as detailed as necessary to create the component, including things like font, color, padding, etc. Per FEWD preference, put them in alpha order. If dynamic content has been defined for a property such as color, use the appropriate [data file](https://github.com/cfpb/design-manual/wiki/Using-data-files) or include file to reference the property.
 
 For example: 
 
@@ -75,6 +75,7 @@ For example:
 * Top border: 3px CFPB Green #20aa3f
  
 Include an example of the style (preferably a coded example, or if not, an image) 
+
 
 #### Code (h2) 
 Include live coded examples from Capital Framework as available, and links to resources to learn more about the live components
@@ -91,32 +92,3 @@ Include any print-specific styles or guidelines when necessary
 * When possible, use a live coded example in place of an image
 * Image width should be no more than 50% of content area
 </div>
-
-
-<h2 id="language">Language</h2>
-
-<div class="content-67 content-first"> 
-#### Capitalization
-Headers and sub-headers will use sentence case
-
-Example: “Use case” not “Use Case” 
-
-#### Plural vs singular
-Use plural case to describe components, unless referring to a specific instance of that component when singular reference should be used
-
-Example: 
-
-* “Modals can be effective for communicating a warning or alert outside the main web page.” 
-* “When a modal opens, set the focus to the first element users need to interact with.” 
-</div>
-
-<h2 id="dynamic-content">Dynamic content</h2>
-
-<div class="content-67 content-first"> 
-The purpose of dynamic content is to make it easy to reuse content “snippets” from page to page. This eliminates the need to copy and paste the same content again and again or update many separate pages if standards change over time. 
-
-
-Dynamic content is defined centrally within Jekyll includes or data files and can be pulled into other design manual pages. The include file or data file can be updated once, and all the places that use dynamic content will automatically update.
-
-Currently, dynamic content is used to specify color data (color name and hex #) on component pages. Detailed instructions for using the color data is located on [the github wiki](https://github.com/cfpb/design-manual/wiki/Using-data-files).
-</div> 

@@ -28,7 +28,7 @@ Topics under global elements encompass structural elements that are used to crea
 
 ##### Page components
 
-Page components are individual UI elements that can be “placed” on a page. These are generally aligned as “atoms” according to atomic design principles and include things like tabs, tables, buttons, and links. 
+Page components are individual UI elements that can be “placed” on a page.
 
 ##### Best practices
 

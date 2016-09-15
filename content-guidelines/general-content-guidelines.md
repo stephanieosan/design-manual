@@ -32,7 +32,7 @@ Most design manual pages consist of a definition or overview of the topic of the
 <h2 id="formatting">Formatting content</h2>
 
 <div class="content-67 content-first"> 
-Present components of behavior, styling, use cases, etc as bullet points, to allow readers to skim content easily. 
+Present components of behavior, styling, use cases, etc as bullet points, to allow readers to skim content easily. Include an image or a live code example of those components as needed.
 
 Example: 
 * Background lightbox: Gray 80% #75787b, 70% opacity
@@ -65,6 +65,7 @@ Use plural case to describe components, unless referring to a specific instance 
 Example: 
 * “Modals can be effective for communicating a warning or alert outside the main web page.” 
 * “When a modal opens, set the focus to the first element users need to interact with.” 
+
 </div>
 
 <h2 id="dynamic-content">Dynamic content</h2>
