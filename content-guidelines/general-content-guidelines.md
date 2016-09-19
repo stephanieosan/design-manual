@@ -71,7 +71,7 @@ Example:
 <h2 id="dynamic-content">Dynamic content</h2>
 
 <div class="content-67 content-first"> 
-The purpose of dynamic content is to make it easy to reuse content “snippets” from page to page. This eliminates the need to copy and paste the same content again and again or update many separate pages if standards change over time. 
+Use dynamic content, or shortcut references to data used site-wide, to simplify the process of documenting standards. Rather than writing out the hex number for a brand palette color, you could use a dynamic content reference to automatically pull that hex number into your design manual page. This eliminates the need to copy and paste the same content again and again or update many separate pages if standards change over time. 
 
 Dynamic content is defined centrally within Jekyll includes or data files and can be pulled into other design manual pages. The include file or data file can be updated once, and all the places that use dynamic content will automatically update.
 
